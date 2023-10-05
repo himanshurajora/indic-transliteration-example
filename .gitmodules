@@ -1,0 +1,4 @@
+[submodule "indictrans"]
+	path = indictrans
+	url = https://github.com/libindic/indic-trans.git
+	branch = master
