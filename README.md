@@ -2,7 +2,7 @@
 
 ## Results
 
-I didn't like it that much though. But it provides good enough results. Better to something else if you have still time left
+I didn't like it that much though. But it provides good enough results. Better to use something else if you have still time left
 
 // How to set it up
 
